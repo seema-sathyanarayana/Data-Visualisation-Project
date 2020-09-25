@@ -1,2 +1,2 @@
 # Data-Visualisation-Project
-Data Visualization Projects
+Data Visualization Projects and Projects to get insights of data
